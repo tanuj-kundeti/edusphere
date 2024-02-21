@@ -1,4 +1,4 @@
-# LMS_TEAM14
+# Edu-Sphere
 Learning Management System
 
 
