@@ -1,0 +1,32 @@
+.bg-image{
+    color: black;
+    background: #37387a;
+    background-image: url('../images/background.png');
+    min-height: 50vh;
+    padding-top: 20vh;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+ 
+header h1{
+    font-size: 2.5rem;
+    margin: 0 0 1rem;
+    color: black;
+}
+
+header h2{
+    font-weight: 500;
+    color: black;
+    font-size: 2rem;
+    margin: 0 0 1rem;
+}
+
+header a{
+    color: black;
+    font-weight: 500;
+}

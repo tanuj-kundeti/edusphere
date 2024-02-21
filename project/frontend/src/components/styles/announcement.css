@@ -1,0 +1,101 @@
+/* .announcement {
+    margin-top: 70px;
+    /* padding: 20px; */
+    .posted{
+      float: right;
+    }
+    .announcement {
+      
+      /* background-color: #f8c8c8; */
+      /* display: flex; */
+      /* justify-content: flex-start; */
+      /* margin-left:8%; */
+      /* margin: 10px 0; */
+      /* border: 1px solid #ccc; */
+      padding: 10px;
+      /* background-color: #fff; */
+      /* box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px; */
+      align-items: left;
+      box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+      border-radius: 4px;
+      margin: 10px;
+    }
+  
+    .editor-wrapper,input {
+      /* margin:auto; */
+      margin-bottom: 10px;
+      padding: 20px;
+      border: 1px solid rgb(15, 15, 15);
+      border-radius: 2px;
+    }
+    
+    .editorClassName rdw-editor-main{
+      border :rgba(181, 16, 16, 0.2)
+    }
+    
+    .announcement-content {
+      width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+      
+    .announcements-container {
+      display: flex;
+      flex-direction: column;
+      align-items: right;
+      margin-top: 20px; /* to give some space below the horizontal nav bar */
+      
+    }
+    
+    .announcements-header {
+      display: flex;
+      justify-content: flex-end;
+      margin-right: 3%; /* adjust as needed */
+      margin-bottom: 11px;
+    }
+    
+    .add-announcement-button {
+      background-color: #5281dd;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .add-announcement-button:hover {
+      background-color: #08a358;
+    }
+    
+    .text {
+      display: flex;
+      justify-content: center;
+      margin-top: 0px;
+      /* width:100% */
+    }
+  
+    .editor-container {
+      display: flex;
+      flex-direction: column;
+      /* justify-content: center; */
+      /* align-items: center; */
+      /* border:#08a358; */
+      margin-left: 20px;
+      width:90%
+      
+    }
+  
+    .save-button {
+      display: flex;
+      justify-content: center;
+      background-color: #5281dd;
+      color: white;
+      padding: 10px 10px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin: 10px 0px;
+      width: 10%;
+    }
+  
+  

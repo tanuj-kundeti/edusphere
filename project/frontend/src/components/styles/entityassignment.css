@@ -1,0 +1,17 @@
+.details {
+    display: flex;
+    /* float: left; */
+    justify-content: flex-start;
+    margin-left: 7%;
+    flex-direction: column;
+    width: 80%;
+}
+
+.header {
+    display: flex;
+    /* float: left; */
+    justify-content: flex-start;
+    /* margin-left: 7%; */
+    flex-direction: column;
+    width: 80%;
+}

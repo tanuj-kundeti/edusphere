@@ -1,0 +1,8 @@
+/vproject
+/env
+*.env
+*.pyc
+node_modules/
+/frontend_1
+/*.pyc
+/./*.pyc
